@@ -46,6 +46,8 @@ Expected: Docstring for both to be updated.
 
 Reproduced this in
 
+Python 3.9.6 on MacOS using
+
 1. vscode 1.85
 2. pylance v2024.2.2
 3. python v2024.0.1
