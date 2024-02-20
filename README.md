@@ -41,3 +41,12 @@ Expected: Docstring for both to be updated.
 3. I think the issue maybe that not all services are being updated with the information.
 
 4. With only one service in the app_two workspace you do not run into this issue. I am not however sure how it determines which service to use for the auto complete. i guess it is dependent on where the python file is located.
+
+# Versions
+
+Reproduced this in
+
+1. vscode 1.85
+2. pylance v2024.2.2
+3. python v2024.0.1
+4. jupyter v2023.11.1100101639
