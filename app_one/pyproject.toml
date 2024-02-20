@@ -1,0 +1,6 @@
+[project]
+name = "app_one"
+
+[tool.pyright]
+include = [ "app" ]
+extraPaths = [ "../app_two" ]
